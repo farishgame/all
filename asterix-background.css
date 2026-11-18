@@ -1,0 +1,10 @@
+/* Tambahkan stylesheet ini SETELAH CSS bawaan website. */
+html, body {
+  min-height: 100%;
+  background-image: url('./asterix.jpg') !important;
+  background-color: #079db1 !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+}
